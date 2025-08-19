@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sravantivanjarapu/School_Website_Task/static/css/main.cf890fdb.css",
+    "main.js": "/sravantivanjarapu/School_Website_Task/static/js/main.91d5ea09.js",
+    "static/js/453.4b2e87f2.chunk.js": "/sravantivanjarapu/School_Website_Task/static/js/453.4b2e87f2.chunk.js",
+    "index.html": "/sravantivanjarapu/School_Website_Task/index.html",
+    "main.cf890fdb.css.map": "/sravantivanjarapu/School_Website_Task/static/css/main.cf890fdb.css.map",
+    "main.91d5ea09.js.map": "/sravantivanjarapu/School_Website_Task/static/js/main.91d5ea09.js.map",
+    "453.4b2e87f2.chunk.js.map": "/sravantivanjarapu/School_Website_Task/static/js/453.4b2e87f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.91d5ea09.js"
+  ]
+}
