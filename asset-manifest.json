@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/School_Website_Task/static/css/main.cf890fdb.css",
-    "main.js": "/School_Website_Task/static/js/main.309ff55c.js",
-    "static/js/453.4b2e87f2.chunk.js": "/School_Website_Task/static/js/453.4b2e87f2.chunk.js",
-    "index.html": "/School_Website_Task/index.html",
-    "main.cf890fdb.css.map": "/School_Website_Task/static/css/main.cf890fdb.css.map",
-    "main.309ff55c.js.map": "/School_Website_Task/static/js/main.309ff55c.js.map",
-    "453.4b2e87f2.chunk.js.map": "/School_Website_Task/static/js/453.4b2e87f2.chunk.js.map"
+    "main.css": "/sravantivanjarapu/school_website_task.git/static/css/main.cf890fdb.css",
+    "main.js": "/sravantivanjarapu/school_website_task.git/static/js/main.4ecaf85b.js",
+    "static/js/453.4b2e87f2.chunk.js": "/sravantivanjarapu/school_website_task.git/static/js/453.4b2e87f2.chunk.js",
+    "index.html": "/sravantivanjarapu/school_website_task.git/index.html",
+    "main.cf890fdb.css.map": "/sravantivanjarapu/school_website_task.git/static/css/main.cf890fdb.css.map",
+    "main.4ecaf85b.js.map": "/sravantivanjarapu/school_website_task.git/static/js/main.4ecaf85b.js.map",
+    "453.4b2e87f2.chunk.js.map": "/sravantivanjarapu/school_website_task.git/static/js/453.4b2e87f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf890fdb.css",
-    "static/js/main.309ff55c.js"
+    "static/js/main.4ecaf85b.js"
   ]
 }
