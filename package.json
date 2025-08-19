@@ -2,7 +2,7 @@
   "name": "school_website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sravantivanjarapu/School_Website_Task",
+  "homepage": "https://sravantivanjarapu.github.io/School_Website_Task",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.7.0",
